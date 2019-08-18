@@ -2,6 +2,6 @@
 # returns the phrase
 noise = 'noise'
 def parrot(noise)
-  puts "#{noise}!"
+  puts "#{noise.upper}!"
 end
 parrot(noise)
