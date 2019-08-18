@@ -3,3 +3,4 @@
 def parrot(noise)
   puts "#{noise}!"
 end
+parrot(noise)
